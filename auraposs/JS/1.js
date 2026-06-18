@@ -1,0 +1,1 @@
+console.log("Olá Mundo") // Exibe a mensagem "Olá Mundo" no console do navegador ou terminal
